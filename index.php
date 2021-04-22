@@ -24,7 +24,7 @@
 </head>
 <body>
     <?php
-
+        echo "NONO I BABA0";
         echo '<h3>Ovo je test aplikacija za Github Actions CI</h3> <br><br>';
         echo date('d.m.Y H:i:s', time());
 
