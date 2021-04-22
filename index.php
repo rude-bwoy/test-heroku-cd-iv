@@ -27,7 +27,7 @@
         echo "NONO I BABA0";
         echo '<h3>Ovo je test aplikacija za Github Actions CI</h3> <br><br>';
         echo date('d.m.Y H:i:s', time());
-
+        echo "<h1>OVO JE NOVO DODANO NAKON IZGRADNJE SVEGA - LOKALNO, STAGIGN I PRODUKCIJA</h1>";
         echo '<br><br>';
         echo 'Evo nešto novo za Heroku!';
     ?>
